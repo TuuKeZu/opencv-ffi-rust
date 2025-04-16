@@ -1,5 +1,5 @@
 #include <iostream>
-#include "bar.h"
+#include "lib.h"
 
 int main() {
     std::cout << "running test" << std::endl;
